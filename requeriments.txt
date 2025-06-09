@@ -1,0 +1,9 @@
+langgraph==0.4.8
+langchain-google-genai==2.1.5
+SQLAlchemy==2.0.41
+greenlet==3.2.3
+langchain==0.3.25
+langchain-text-splitters==0.3.8
+fastapi==0.115.12
+python-dotenv==1.1.0
+langgraph-cli[inmem]==0.1.65
